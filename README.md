@@ -74,12 +74,12 @@ Filter the studies of interest based on exposure time (days), administration rou
 ### 5. Output example
 After extracting data using this tool, two output files are generated, one with quantitative and the other with qualitative data. Both have five common columns, namely:
 - subst_id: Substance ID.
-- study_count: Number of relevant studies (according to the current filering scheme) in which the substance appears.
+- study_count: Number of relevant studies (according to the current filtering scheme) in which the substance appears.
 - dose_max: Maximum dose at which the substance has been tested among the relevant studies.
 - dose_min: Minimum dose at which the substance has been tested among the relevant studies.
 - is_active: Boolean indicating whether the substance has been found to have any toxicity according to the current finding-related filtering criteria.
 
-After these there is a column for each relevant finding. In these columns a value is provided if the finding is reported for the given substance, and it is empty otherwise. The value will be 1 in the qualitative file and the minimum dose at which the finding is reported in the quantitative file.
+After these, there is a column for each relevant finding. In these columns a value is provided if the finding is reported for the given substance, and it is empty otherwise. The value will be 1 in the qualitative file and the minimum dose at which the finding is reported in the quantitative file.
 
 This is an example of the qualitative output: 
 ![qualiative](https://raw.githubusercontent.com/phi-grib/RDTextractor/master/img/qual.JPG)
