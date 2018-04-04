@@ -8,11 +8,11 @@
 ##
 ##    Copyright 2018 Elisabet Gregori & Ignacio Pasamontes
 ##
-##    studyExtraction is free software: you can redistribute it 
+##    RDTextractor is free software: you can redistribute it 
 ##    and/or modify it under the terms of the GNU General Public 
 ##    License as published by the Free Software Foundation version 3.
 ##
-##    studyExtraction is distributed in the hope that it will be useful,
+##    RDTextractor is distributed in the hope that it will be useful,
 ##    but WITHOUT ANY WARRANTY; without even the implied warranty of
 ##    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 ##    GNU General Public License for more details.
