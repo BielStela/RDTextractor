@@ -82,7 +82,7 @@ After extracting data using this tool, two output files are generated, one with 
 After these there is a column for each relevant finding. In these columns a value is provided if the finding is reported for the given substance, and it is empty otherwise. The value will be 1 in the qualitative file and the minimum dose at which the finding is reported in the quantitative file.
 
 This is an example of the qualitative output: 
-![qualiative](https://raw.githubusercontent.com/phi-grib/studyExtraction/master/img/qual.JPG?token=AciZtAl8V5Egsa1niAE01rdd1dmQmRudks5azdD1wA%3D%3D)
+![qualiative](https://raw.githubusercontent.com/phi-grib/RDTextractor/master/img/qual.JPG)
 
 This is an example of the quantitative output: 
-![quantitative](https://raw.githubusercontent.com/phi-grib/studyExtraction/master/img/quant.JPG?token=AciZtNitXoDNf5LH4l7Ig7t9zBY4NcIdks5azdJDwA%3D%3D)
+![quantitative](https://raw.githubusercontent.com/phi-grib/RDTextractor/master/img/quant.JPG)
